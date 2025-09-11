@@ -1,0 +1,9 @@
+Components Used:
+- DHT11 Temperature & Humidity Sensor
+- PIR Sensor
+- 16x2 LCD Display
+- GPIO Extension Board
+- Pushbuttons (x2)
+- LEDs (x3)
+- Resistors (
+- Breadboard + jumper wires
