@@ -3,7 +3,7 @@ Components Used:
 - PIR Sensor
 - 16x2 LCD Display
 - GPIO Extension Board
-- Pushbuttons (x2)
+- Pushbuttons (x3)
 - LEDs (x3)
-- Resistors (
+- Resistors (220Ω, 10kΩ)
 - Breadboard + jumper wires
